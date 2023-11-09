@@ -1,0 +1,156 @@
+id,pop,num_in_file,lat,lon,INSTCODE,ACCENUMB,acc_name,collection_site,province,elevation,eval,copy,duplicates,Cluster6,Cluster8,pop2,pop3,Plate,Genotype
+ZM9083,Zambia,1,-13.9374,32.22187,ZMB048,ZM9083,Ze blue,Chipata,Eastern province,1006,keep,Zambia,Zambia,Cluster3,Cluster5,keep,keep,DSp22-7146_1,ZM9083
+ZM9051,Zambia,2,-14.20884,31.20936,ZMB048,ZM9051,NA,Petauke,Eastern province,1027,keep,Zambia,Zambia,Cluster6,Cluster6,keep,keep,DSp22-7146_1,ZM9051
+ZM8963_1,Zambia,3,-16.51255,26.68789,ZMB048,ZM8963,Navik,Choma,Southern province,1197,keep,copy,copy1,Cluster1,Cluster4,drop,drop,DSp22-7146_1,ZM8963
+ZM9001,Zambia,4,-16.56352,26.74303,ZMB048,ZM9001,Bena Vicky,Choma,Southern province,1267,drop,copy,copy5,NA,NA,drop,drop,DSp22-7146_1,ZM9001
+ZM9046,Zambia,6,-14.20884,31.20936,ZMB048,ZM9046,NA,Petauke,Eastern province,1027,keep,Zambia,Zambia,Cluster4,Cluster2,keep,keep,DSp22-7146_1,ZM9046
+ZM9099,Zambia,7,-12.20527,26.4064,ZMB048,ZM9099,Chingovwa,Solwezi,North-western province,1335,keep,Zambia,Zambia,Cluster1,Cluster8,keep,keep,DSp22-7146_1,ZM9099
+ZM8966_1,Zambia,9,-16.51255,26.68789,ZMB048,ZM8966,Mbata,Choma,Southern province,1197,keep,copy,copy4,Cluster5,Cluster1,drop,drop,DSp22-7146_1,ZM8966
+ZM9086,Zambia,10,-14.5425,30.9292,ZMB048,ZM9086,Mwanchalilanji,Nyimba,Eastern province,863,keep,Zambia,Zambia,Cluster3,Cluster5,keep,keep,DSp22-7146_1,ZM9086
+ZM9064,Zambia,11,-14.20404,31.20842,ZMB048,ZM9064,NA,Petauke,Eastern province,1030,keep,Zambia,Zambia,Cluster1,Cluster4,keep,keep,DSp22-7146_1,ZM9064
+ZM8964_1,Zambia,12,-16.51255,26.68789,ZMB048,ZM8964,Shanga ubone,Choma,Southern province,1197,keep,copy,copy2,Cluster6,Cluster6,drop,drop,DSp22-7146_1,ZM8964
+ZM9097,Zambia,15,-12.2048,26.40683,ZMB048,ZM9097,Chingovwa/     Kapokola,Solwezi,North-western province,1336,keep,Zambia,Zambia,Cluster5,Cluster1,keep,keep,DSp22-7146_1,ZM9097
+ZM9067,Zambia,16,-14.24528,31.3275,ZMB048,ZM9067,NA,Petauke,Eastern province,1021,keep,Zambia,Zambia,Cluster2,Cluster7,keep,keep,DSp22-7146_1,ZM9067
+ZM9014,Zambia,17,-16.71068,26.77833,ZMB048,ZM9014,Kalya balimi,Kalomo,Southern province,1364,keep,Zambia,Zambia,Cluster3,Cluster5,drop,drop,DSp22-7146_1,ZM9014
+ZM9016,Zambia,19,-16.27154,27.52578,ZMB048,ZM9016,Mukakandongwe,Monze,Southern province,1081,keep,Zambia,Zambia,Cluster3,Cluster5,drop,drop,DSp22-7146_1,ZM9016
+ZM9017,Zambia,20,-16.27154,27.52578,ZMB048,ZM9017,Mukakabola,Monze,Southern province,1081,keep,Zambia,Zambia,Cluster1,Cluster8,drop,drop,DSp22-7146_1,ZM9017
+ZM9023,Zambia,22,-16.26016,27.57928,ZMB048,ZM9023,Katende,Monze,Southern province,1105,keep,Zambia,Zambia,Cluster6,Cluster3,drop,drop,DSp22-7146_1,ZM9023
+ZM9081,Zambia,23,-13.93821,32.23573,ZMB048,ZM9081,Solwezi,Chipata,Eastern province,1049,keep,Zambia,Zambia,Cluster2,Cluster7,drop,drop,DSp22-7146_1,ZM9081
+ZM8965_1,Zambia,24,-16.51255,26.68789,ZMB048,ZM8965,Chirundu,Choma,Southern province,1197,keep,copy,copy3,Cluster6,Cluster6,drop,drop,DSp22-7146_1,ZM8965
+ZM9085,Zambia,25,-13.9374,32.22187,ZMB048,ZM9085,Solwezi,Chipata,Eastern province,1006,keep,Zambia,Zambia,Cluster3,Cluster5,keep,keep,DSp22-7146_1,ZM9085
+ZM9027,Zambia,29,-16.26016,27.57928,ZMB048,ZM9027,NA,Monze,Southern province,1105,keep,Zambia,Zambia,Cluster3,Cluster5,drop,drop,DSp22-7146_1,ZM9027
+ZM9029,Zambia,31,-16.26016,27.57928,ZMB048,ZM9029,Muka Lusaka,Monze,Southern province,1105,keep,Zambia,Zambia,Cluster3,Cluster5,drop,drop,DSp22-7146_1,ZM9029
+ZM9019,Zambia,33,-16.27154,27.52578,ZMB048,ZM9019,Kathai,Monze,Southern province,1081,keep,Zambia,Zambia,Cluster4,Cluster2,drop,drop,DSp22-7146_1,ZM9019
+ZM9073,Zambia,35,-13.95606,32.17642,ZMB048,ZM9073,Solwezi,Katete,Eastern province,1141,keep,Zambia,Zambia,Cluster4,Cluster2,keep,keep,DSp22-7146_1,ZM9073
+ZM9021,Zambia,37,-16.26016,27.57928,ZMB048,ZM9021,Kasempa,Monze,Southern province,1105,keep,Zambia,Zambia,Cluster1,Cluster8,drop,drop,DSp22-7146_1,ZM9021
+ZM9091,Zambia,42,-14.54362,30.92558,ZMB048,ZM9091,3 matepo,Nyimba,Eastern province,853,keep,Zambia,Zambia,Cluster1,Cluster6,keep,keep,DSp22-7146_1,ZM9091
+ZM9065,Zambia,43,-14.20404,31.20842,ZMB048,ZM9065,NA,Petauke,Eastern province,1030,keep,Zambia,Zambia,Cluster3,Cluster5,keep,keep,DSp22-7146_1,ZM9065
+ZM9147,Zambia,48,-12.42228,26.21627,ZMB048,ZM9147,Katoto,Kalumbila,North-western province,1312,keep,Zambia,Zambia,Cluster3,Cluster5,drop,drop,DSp22-7146_2,ZM9147
+ZM9089,Zambia,52,-14.5425,30.9292,ZMB048,ZM9089,3 matepo,Nyimba,Eastern province,863,keep,Zambia,Zambia,Cluster3,Cluster6,drop,drop,DSp22-7146_2,ZM9089
+ZM9128,Zambia,54,-12.27233,26.52803,ZMB048,ZM9128,Kapila,Solwezi,North-western province,1326,keep,Zambia,Zambia,Cluster1,Cluster4,keep,keep,DSp22-7146_2,ZM9128
+ZM9144,Zambia,55,-12.42228,26.21627,ZMB048,ZM9144,Lukulu,Kalumbila,North-western province,1312,keep,Zambia,Zambia,Cluster3,Cluster5,keep,keep,DSp22-7146_2,ZM9144
+ZM9117,Zambia,56,-12.2059,26.40514,ZMB048,ZM9117,Chingovwa,Solwezi,North-western province,1338,keep,Zambia,Zambia,Cluster3,Cluster5,keep,keep,DSp22-7146_2,ZM9117
+ZM9038,Zambia,58,-14.21088,31.20006,ZMB048,ZM9038,NA,Petauke,Eastern province,941,keep,Zambia,Zambia,Cluster6,Cluster6,keep,keep,DSp22-7146_2,ZM9038
+ZM9109,Zambia,59,-12.2325,26.40339,ZMB048,ZM9109,NA,Solwezi,North-western province,1320,keep,Zambia,Zambia,Cluster1,Cluster4,keep,keep,DSp22-7146_2,ZM9109
+ZM9146,Zambia,60,-12.42228,26.21627,ZMB048,ZM9146,Carrot 1,Kalumbila,North-western province,1312,keep,Zambia,Zambia,Cluster3,Cluster5,drop,available_CIP,DSp22-7146_2,ZM9146
+ZM9041,Zambia,63,-14.21088,31.20006,ZMB048,ZM9041,NA,Petauke,Eastern province,941,keep,Zambia,Zambia,Cluster6,Cluster6,keep,keep,DSp22-7146_2,ZM9041
+ZM9059,Zambia,65,-14.16995,31.25181,ZMB048,ZM9059,NA,Petauke,Eastern province,894,keep,Zambia,Zambia,Cluster3,Cluster5,keep,keep,DSp22-7146_2,ZM9059
+ZM9056,Zambia,70,-14.16995,31.25181,ZMB048,ZM9056,NA,Petauke,Eastern province,894,keep,Zambia,Zambia,Cluster5,Cluster1,keep,keep,DSp22-7146_2,ZM9056
+ZM9060,Zambia,74,-14.16995,31.25181,ZMB048,ZM9060,NA,Petauke,Eastern province,894,keep,Zambia,Zambia,Cluster2,Cluster7,keep,keep,DSp22-7146_2,ZM9060
+ZM9043,Zambia,75,-14.21088,31.20006,ZMB048,ZM9043,NA,Petauke,Eastern province,941,keep,Zambia,Zambia,Cluster3,Cluster5,keep,keep,DSp22-7146_2,ZM9043
+ZM9066,Zambia,76,-14.20404,31.20842,ZMB048,ZM9066,NA,Petauke,Eastern province,1030,keep,Zambia,Zambia,Cluster3,Cluster5,keep,keep,DSp22-7146_2,ZM9066
+ZM9156,Zambia,79,-12.42228,26.21627,ZMB048,ZM9156,Kanga,Kalumbila,North-western province,1312,keep,Zambia,Zambia,Cluster3,Cluster5,keep,keep,DSp22-7146_2,ZM9156
+ZM9153,Zambia,80,-12.42228,26.21627,ZMB048,ZM9153,Mulungushi,Kalumbila,North-western province,1312,keep,Zambia,Zambia,Cluster6,Cluster3,drop,available_CIP,DSp22-7146_2,ZM9153
+ZM9134,Zambia,81,-12.22885,26.51317,ZMB048,ZM9134,Kashinde,Solwezi,North-western province,1339,keep,Zambia,Zambia,Cluster1,Cluster8,keep,keep,DSp22-7146_2,ZM9134
+ZM9151,Zambia,84,-12.42228,26.21627,ZMB048,ZM9151,K55/1/3,Kalumbila,North-western province,1312,keep,Zambia,Zambia,Cluster1,Cluster4,drop,drop,DSp22-7146_2,ZM9151
+ZM9036,Zambia,86,-14.24338,31.32454,ZMB048,ZM9036,Carrot,Petauke,Eastern province,995,keep,Zambia,Zambia,Cluster1,Cluster4,keep,keep,DSp22-7146_2,ZM9036
+ZM9098,Zambia,87,-12.2048,26.40683,ZMB048,ZM9098,Matembele,Solwezi,North-western province,1336,keep,Zambia,Zambia,Cluster1,Cluster4,drop,available_CIP,DSp22-7146_2,ZM9098
+ZM9110,Zambia,91,-12.2325,26.40339,ZMB048,ZM9110,NA,Solwezi,North-western province,1320,keep,Zambia,Zambia,Cluster1,Cluster4,keep,keep,DSp22-7146_2,ZM9110
+ZM9162,Zambia,92,-12.42228,26.21627,ZMB048,ZM9162,NA,Kalumbila,North-western province,1312,keep,Zambia,Zambia,Cluster3,Cluster5,keep,keep,DSp22-7146_2,ZM9162
+ZM9042,Zambia,94,-14.21088,31.20006,ZMB048,ZM9042,NA,Petauke,Eastern province,941,keep,Zambia,Zambia,Cluster1,Cluster4,drop,drop,DSp22-7146_2,ZM9042
+ZM9158,Zambia,95,-12.42228,26.21627,ZMB048,ZM9158,NA,Kalumbila,North-western province,1312,keep,Zambia,Zambia,Cluster2,Cluster7,keep,keep,DSp22-7146_2,ZM9158
+ZM9101,Zambia,96,-12.20527,26.4064,ZMB048,ZM9101,Matembele,Solwezi,North-western province,1335,keep,Zambia,Zambia,Cluster1,Cluster8,keep,keep,DSp22-7146_2,ZM9101
+ZM9037,Zambia,98,-14.24338,31.32454,ZMB048,ZM9037,Solwezi,Petauke,Eastern province,995,keep,Zambia,Zambia,Cluster5,Cluster1,drop,drop,DSp22-7146_2,ZM9037
+ZM9114,Zambia,102,-12.22997,26.40373,ZMB048,ZM9114,Chingovwa,Solwezi,North-western province,1310,keep,Zambia,Zambia,Cluster5,Cluster1,keep,keep,DSp22-7146_2,ZM9114
+ZM9103,Zambia,104,-12.20527,26.4064,ZMB048,ZM9103,Matembele,Solwezi,North-western province,1335,keep,Zambia,Zambia,Cluster1,Cluster4,drop,available_CIP,DSp22-7146_2,ZM9103
+ZM9092,Zambia,106,-14.54362,30.92558,ZMB048,ZM9092,Mwanchalilanji,Nyimba,Eastern province,853,keep,Zambia,Zambia,Cluster1,Cluster4,keep,keep,DSp22-7146_2,ZM9092
+ZM9063,Zambia,110,-14.16995,31.25181,ZMB048,ZM9063,NA,Petauke,Eastern province,894,keep,Zambia,Zambia,Cluster5,Cluster1,keep,keep,DSp22-7146_2,ZM9063
+ZM9145,Zambia,113,-12.42228,26.21627,ZMB048,ZM9145,LC-SANTMA 20/3,Kalumbila,North-western province,1312,keep,Zambia,Zambia,Cluster5,Cluster1,keep,keep,DSp22-7146_2,ZM9145
+ZM9035,Zambia,118,-14.23951,31.32544,ZMB048,ZM9035,NA,Petauke,Eastern province,904,keep,Zambia,Zambia,Cluster5,Cluster1,keep,keep,DSp22-7146_2,ZM9035
+ZM9161,Zambia,120,-12.42228,26.21627,ZMB048,ZM9161,NA,Kalumbila,North-western province,1312,keep,Zambia,Zambia,Cluster3,Cluster5,keep,keep,DSp22-7146_2,ZM9161
+ZM9149,Zambia,130,-12.42228,26.21627,ZMB048,ZM9149,Matembele,Kalumbila,North-western province,1312,keep,Zambia,Zambia,Cluster3,Cluster5,drop,drop,DSp22-7146_2,ZM9149
+ZM9055,Zambia,131,-14.16995,31.25181,ZMB048,ZM9055,NA,Petauke,Eastern province,894,keep,Zambia,Zambia,Cluster2,Cluster7,keep,keep,DSp22-7146_2,ZM9055
+ZM9057,Zambia,132,-14.16995,31.25181,ZMB048,ZM9057,NA,Petauke,Eastern province,894,keep,Zambia,Zambia,Cluster3,Cluster5,keep,keep,DSp22-7146_2,ZM9057
+ZM9167,Zambia,140,-13.3881,28.44066,ZMB048,ZM9167,Chitabetabe,Mpongwe,Copperbelt province,1197,keep,Zambia,Zambia,Cluster6,Cluster6,drop,drop,DSp22-7146_3,ZM9167
+ZM9214,Zambia,141,-12.8827,27.37993,ZMB048,ZM9214,Matembele,Lufwanyama,Copperbelt province,1201,keep,Zambia,Zambia,Cluster1,Cluster8,keep,keep,DSp22-7146_3,ZM9214
+ZM9053,Zambia,143,-14.18177,31.23963,ZMB048,ZM9053,NA,Petauke,Eastern province,943,keep,Zambia,Zambia,Cluster2,Cluster7,keep,keep,DSp22-7146_3,ZM9053
+ZM9185,Zambia,146,-13.21779,28.28384,ZMB048,ZM9185,Unknown,Masaiti,Copperbelt province,1212,keep,Zambia,Zambia,Cluster3,Cluster5,keep,keep,DSp22-7146_3,ZM9185
+ZM9178,Zambia,147,-13.21676,28.28071,ZMB048,ZM9178,Unknown,Masaiti,Copperbelt province,1211,keep,Zambia,Zambia,Cluster6,Cluster3,drop,available_CIP,DSp22-7146_3,ZM9178
+ZM9107,Zambia,148,-12.2316,26.4023,ZMB048,ZM9107,Chingovwa,Solwezi,North-western province,1319,keep,Zambia,Zambia,Cluster5,Cluster1,keep,keep,DSp22-7146_3,ZM9107
+ZM9165,Zambia,149,-13.3881,28.44066,ZMB048,ZM9165,Yamenso,Mpongwe,Copperbelt province,1197,keep,Zambia,Zambia,Cluster2,Cluster7,keep,keep,DSp22-7146_3,ZM9165
+ZM9220,Zambia,151,-12.94768,28.04861,ZMB048,ZM9220,Matembele,Lufwanyama,Copperbelt province,1229,keep,Zambia,Zambia,Cluster1,Cluster8,keep,keep,DSp22-7146_3,ZM9220
+ZM9204,Zambia,153,-12.91954,27.43715,ZMB048,ZM9204,Kapila,Lufwanyama,Copperbelt province,1255,keep,Zambia,Zambia,Cluster6,Cluster3,keep,keep,DSp22-7146_3,ZM9204
+ZM9199,Zambia,154,-13.18984,28.30219,ZMB048,ZM9199,Unknown,Masaiti,Copperbelt province,1200,keep,Zambia,Zambia,Cluster3,Cluster5,keep,keep,DSp22-7146_3,ZM9199
+ZM9115,Zambia,157,-12.22997,26.40373,ZMB048,ZM9115,Matembele,Solwezi,North-western province,1310,keep,Zambia,Zambia,Cluster1,Cluster4,keep,keep,DSp22-7146_3,ZM9115
+ZM9211,Zambia,159,-12.8827,27.37993,ZMB048,ZM9211,Kapila,Lufwanyama,Copperbelt province,1201,keep,Zambia,Zambia,Cluster6,Cluster6,keep,keep,DSp22-7146_3,ZM9211
+ZM9209,Zambia,160,-12.8827,27.37993,ZMB048,ZM9209,Chingovwa,Lufwanyama,Copperbelt province,1201,keep,Zambia,Zambia,Cluster3,Cluster5,keep,keep,DSp22-7146_3,ZM9209
+ZM9201,Zambia,161,-13.18984,28.30219,ZMB048,ZM9201,Unknown,Masaiti,Copperbelt province,1200,keep,Zambia,Zambia,Cluster5,Cluster1,keep,keep,DSp22-7146_3,ZM9201
+ZM9208,Zambia,162,-12.8827,27.37993,ZMB048,ZM9208,Susumana,Lufwanyama,Copperbelt province,1201,keep,Zambia,Zambia,Cluster3,Cluster5,keep,keep,DSp22-7146_3,ZM9208
+ZM9188,Zambia,164,-13.18861,28.30489,ZMB048,ZM9188,Unknown,Masaiti,Copperbelt province,1196,keep,Zambia,Zambia,Cluster6,Cluster3,keep,keep,DSp22-7146_3,ZM9188
+ZM9033,Zambia,165,-14.23951,31.32544,ZMB048,ZM9033,NA,Petauke,Eastern province,904,keep,Zambia,Zambia,Cluster5,Cluster1,keep,keep,DSp22-7146_3,ZM9033
+ZM9106,Zambia,166,-12.2316,26.4023,ZMB048,ZM9106,Kyapatala,Solwezi,North-western province,1319,keep,Zambia,Zambia,Cluster5,Cluster1,keep,keep,DSp22-7146_3,ZM9106
+ZM9213,Zambia,169,-12.8827,27.37993,ZMB048,ZM9213,Unknown,Lufwanyama,Copperbelt province,1201,keep,Zambia,Zambia,Cluster6,Cluster6,keep,keep,DSp22-7146_3,ZM9213
+ZM9221,Zambia,170,-12.94768,28.04861,ZMB048,ZM9221,Sonteka red,Lufwanyama,Copperbelt province,1229,keep,Zambia,Zambia,Cluster6,Cluster6,keep,keep,DSp22-7146_3,ZM9221
+ZM9192,Zambia,172,-13.18861,28.30489,ZMB048,ZM9192,Chingovwa,Masaiti,Copperbelt province,1196,keep,Zambia,Zambia,Cluster3,Cluster5,keep,keep,DSp22-7146_3,ZM9192
+ZM9182,Zambia,173,-13.19671,28.30742,ZMB048,ZM9182,Kandolo,Masaiti,Copperbelt province,1191,keep,Zambia,Zambia,Cluster3,Cluster5,keep,keep,DSp22-7146_3,ZM9182
+ZM9039,Zambia,174,-14.21088,31.20006,ZMB048,ZM9039,Carrot,Petauke,Eastern province,941,keep,Zambia,Zambia,Cluster2,Cluster7,keep,keep,DSp22-7146_3,ZM9039
+ZM9168,Zambia,175,-13.38746,28.44114,ZMB048,ZM9168,Mwandaba,Mpongwe,Copperbelt province,1202,keep,Zambia,Zambia,Cluster6,Cluster6,keep,keep,DSp22-7146_3,ZM9168
+ZM9205,Zambia,178,-12.91954,27.43715,ZMB048,ZM9205,Matembele,Lufwanyama,Copperbelt province,1255,keep,Zambia,Zambia,Cluster1,Cluster4,keep,keep,DSp22-7146_3,ZM9205
+ZM9196,Zambia,180,-13.18984,28.30219,ZMB048,ZM9196,Chingovwa,Masaiti,Copperbelt province,1200,keep,Zambia,Zambia,Cluster5,Cluster1,keep,keep,DSp22-7146_3,ZM9196
+ZM9181,Zambia,181,-13.21779,28.28384,ZMB048,ZM9181,Iyakashika,Masaiti,Copperbelt province,1212,keep,Zambia,Zambia,Cluster6,Cluster3,keep,keep,DSp22-7146_3,ZM9181
+ZM9069,Zambia,183,-13.95709,32.17732,ZMB048,ZM9069,Ze blue,Katete,Eastern province,1097,keep,Zambia,Zambia,Cluster3,Cluster5,keep,keep,DSp22-7146_3,ZM9069
+ZM9169,Zambia,184,-13.38959,28.43072,ZMB048,ZM9169,Ya BP,Mpongwe,Copperbelt province,1210,keep,Zambia,Zambia,Cluster5,Cluster1,keep,keep,DSp22-7146_3,ZM9169
+ZM9170,Zambia,186,-13.38746,28.44114,ZMB048,ZM9170,Chitabetabe,Mpongwe,Copperbelt province,1210,keep,Zambia,Zambia,Cluster6,Cluster3,keep,keep,DSp22-7146_3,ZM9170
+ZM9193,Zambia,187,-13.18861,28.30489,ZMB048,ZM9193,Unknown,Masaiti,Copperbelt province,1196,keep,Zambia,Zambia,Cluster3,Cluster5,keep,keep,DSp22-7146_3,ZM9193
+ZM9207,Zambia,188,-12.91332,27.36823,ZMB048,ZM9207,Chingovwa,Lufwanyama,Copperbelt province,1194,keep,Zambia,Zambia,Cluster4,Cluster2,keep,keep,DSp22-7146_3,ZM9207
+ZM9195,Zambia,189,-13.18984,28.30219,ZMB048,ZM9195,Matembele,Masaiti,Copperbelt province,1200,keep,Zambia,Zambia,Cluster1,Cluster8,keep,keep,DSp22-7146_3,ZM9195
+ZM9177,Zambia,190,-12.82768,28.42447,ZMB048,ZM9177,Matembele,Mpongwe,Copperbelt province,1212,keep,Zambia,Zambia,Cluster1,Cluster8,keep,keep,DSp22-7146_3,ZM9177
+ZM9187,Zambia,191,-13.18861,28.30489,ZMB048,ZM9187,Unknown,Masaiti,Copperbelt province,1196,keep,Zambia,Zambia,Cluster3,Cluster5,keep,keep,DSp22-7146_3,ZM9187
+ZM9166,Zambia,193,-13.3881,28.44066,ZMB048,ZM9166,Matembele,Mpongwe,Copperbelt province,1197,keep,Zambia,Zambia,Cluster2,Cluster7,keep,keep,DSp22-7146_3,ZM9166
+ZM9163,Zambia,194,-13.3881,28.44066,ZMB048,ZM9163,Ma eggs,Mpongwe,Copperbelt province,1197,keep,Zambia,Zambia,Cluster6,Cluster6,drop,drop,DSp22-7146_3,ZM9163
+ZM9194,Zambia,197,-13.18861,28.30489,ZMB048,ZM9194,Unknown,Masaiti,Copperbelt province,1196,keep,Zambia,Zambia,Cluster1,Cluster4,keep,keep,DSp22-7146_3,ZM9194
+ZM9189,Zambia,199,-13.18861,28.30489,ZMB048,ZM9189,Unknown,Masaiti,Copperbelt province,1196,keep,Zambia,Zambia,Cluster6,Cluster6,keep,keep,DSp22-7146_3,ZM9189
+ZM9084,Zambia,200,-13.9374,32.22187,ZMB048,ZM9084,Saili,Chipata,Eastern province,1006,keep,Zambia,Zambia,Cluster3,Cluster6,keep,keep,DSp22-7146_3,ZM9084
+ZM9212,Zambia,201,-12.8827,27.37993,ZMB048,ZM9212,Nkana,Lufwanyama,Copperbelt province,1201,keep,Zambia,Zambia,Cluster1,Cluster6,keep,keep,DSp22-7146_3,ZM9212
+ZM9215,Zambia,202,-12.86204,27.01989,ZMB048,ZM9215,Kapila,Lufwanyama,Copperbelt province,1272,keep,Zambia,Zambia,Cluster1,Cluster4,keep,keep,DSp22-7146_3,ZM9215
+ZM9171,Zambia,203,-13.38746,28.44114,ZMB048,ZM9171,Mbata,Mpongwe,Copperbelt province,1210,keep,Zambia,Zambia,Cluster6,Cluster3,keep,keep,DSp22-7146_3,ZM9171
+ZM9200,Zambia,204,-13.18984,28.30219,ZMB048,ZM9200,Unknown,Masaiti,Copperbelt province,1200,keep,Zambia,Zambia,Cluster5,Cluster1,keep,keep,DSp22-7146_3,ZM9200
+ZM9206,Zambia,205,-12.91332,27.36823,ZMB048,ZM9206,Kapila,Lufwanyama,Copperbelt province,1194,keep,Zambia,Zambia,Cluster1,Cluster4,keep,keep,DSp22-7146_3,ZM9206
+ZM9191,Zambia,206,-13.18861,28.30489,ZMB048,ZM9191,Unknown,Masaiti,Copperbelt province,1196,keep,Zambia,Zambia,Cluster6,Cluster6,drop,available_CIP,DSp22-7146_3,ZM9191
+ZM8980,Zambia,210,-16.51271,26.68909,ZMB048,ZM8980,Kasempa purple,Choma,Southern province,1204,keep,Zambia,Zambia,Cluster5,Cluster1,keep,keep,DSp22-7458_1,ZM8980
+ZM8996,Zambia,211,-16.53412,26.69318,ZMB048,ZM8996,Kapusipusi,Choma,Southern province,1230,keep,Zambia,Zambia,Cluster6,Cluster3,keep,keep,DSp22-7458_1,ZM8996
+ZM9000,Zambia,212,-16.56352,26.74303,ZMB048,ZM9000,Mukakandongwe,Choma,Southern province,1267,keep,Zambia,Zambia,Cluster3,Cluster5,keep,keep,DSp22-7458_1,ZM9000
+ZM8973,Zambia,213,-16.54198,26.6679,ZMB048,ZM8973,Mudumina kunsi,Choma,Southern province,1244,keep,Zambia,Zambia,Cluster6,Cluster3,keep,keep,DSp22-7458_1,ZM8973
+ZM8988,Zambia,214,-16.50905,26.69154,ZMB048,ZM8988,Kambala,Choma,Southern province,1211,keep,Zambia,Zambia,Cluster1,Cluster4,keep,keep,DSp22-7458_1,ZM8988
+ZM8992,Zambia,216,-16.53412,26.69318,ZMB048,ZM8992,Mahombe,Choma,Southern province,1230,keep,Zambia,Zambia,Cluster1,Cluster4,keep,keep,DSp22-7458_1,ZM8992
+ZM8968,Zambia,218,-16.51255,26.68789,ZMB048,ZM8968,Mukakambole,Choma,Southern province,1197,keep,Zambia,Zambia,Cluster6,Cluster6,keep,keep,DSp22-7458_1,ZM8968
+ZM9011,Zambia,219,-16.61106,26.79966,ZMB048,ZM9011,Bena Vicky,Kalomo,Southern province,1304,keep,Zambia,Zambia,Cluster5,Cluster1,keep,keep,DSp22-7458_1,ZM9011
+ZM8972,Zambia,220,-16.54198,26.6679,ZMB048,ZM8972,Chirundu,Choma,Southern province,1244,keep,Zambia,Zambia,Cluster2,Cluster7,keep,keep,DSp22-7458_1,ZM8972
+ZM8970,Zambia,221,-16.54198,26.6679,ZMB048,ZM8970,Kabalebale,Choma,Southern province,1244,keep,Zambia,Zambia,Cluster6,Cluster6,drop,drop,DSp22-7458_1,ZM8970
+ZM9005,Zambia,222,-16.57605,26.76313,ZMB048,ZM9005,PAM,Choma,Southern province,1275,keep,Zambia,Zambia,Cluster1,Cluster4,keep,keep,DSp22-7458_1,ZM9005
+ZM9012,Zambia,223,-16.61106,26.79966,ZMB048,ZM9012,Mukakandongwe,Kalomo,Southern province,1304,keep,Zambia,Zambia,Cluster3,Cluster5,keep,keep,DSp22-7458_1,ZM9012
+ZM8983,Zambia,224,-16.50905,26.69154,ZMB048,ZM8983,Purple,Choma,Southern province,1211,keep,Zambia,Zambia,Cluster6,Cluster3,keep,keep,DSp22-7458_1,ZM8983
+ZM8991,Zambia,225,-16.50905,26.69154,ZMB048,ZM8991,Kasempa,Choma,Southern province,1211,keep,Zambia,Zambia,Cluster1,Cluster6,keep,keep,DSp22-7458_1,ZM8991
+ZM8977,Zambia,226,-16.54198,26.6679,ZMB048,ZM8977,Namwala,Choma,Southern province,1244,keep,Zambia,Zambia,Cluster1,Cluster4,keep,keep,DSp22-7458_1,ZM8977
+ZM8982,Zambia,227,-16.51271,26.68909,ZMB048,ZM8982,Purple,Choma,Southern province,1204,keep,Zambia,Zambia,Cluster6,Cluster3,keep,keep,DSp22-7458_1,ZM8982
+ZM8974,Zambia,228,-16.54198,26.6679,ZMB048,ZM8974,Kalya balimi,Choma,Southern province,1244,keep,Zambia,Zambia,Cluster4,Cluster2,keep,keep,DSp22-7458_1,ZM8974
+ZM9002,Zambia,229,-16.57605,26.76313,ZMB048,ZM9002,Shanga ubone,Choma,Southern province,1275,keep,Zambia,Zambia,Cluster3,Cluster5,keep,keep,DSp22-7458_1,ZM9002
+ZM9006,Zambia,230,-16.57605,26.76313,ZMB048,ZM9006,Shanga ubone,Choma,Southern province,1275,keep,Zambia,Zambia,Cluster3,Cluster5,keep,keep,DSp22-7458_1,ZM9006
+ZM9004,Zambia,231,-16.57605,26.76313,ZMB048,ZM9004,Bena Vicky,Choma,Southern province,1275,keep,Zambia,Zambia,Cluster5,Cluster1,keep,keep,DSp22-7458_1,ZM9004
+ZM8981,Zambia,232,-16.51271,26.68909,ZMB048,ZM8981,Kasempa white,Choma,Southern province,1204,keep,Zambia,Zambia,Cluster2,Cluster7,keep,keep,DSp22-7458_1,ZM8981
+ZM8966_2,Zambia,233,-16.51255,26.68789,ZMB048,ZM8966,Mbata,Choma,Southern province,1197,keep,copy,copy4,Cluster6,Cluster6,keep,keep,DSp22-7458_1,ZM8966_2
+ZM9009,Zambia,234,-16.57605,26.76313,ZMB048,ZM9009,Bena Vicky,Choma,Southern province,1275,keep,Zambia,Zambia,Cluster5,Cluster1,keep,keep,DSp22-7458_1,ZM9009
+ZM8984,Zambia,235,-16.50905,26.69154,ZMB048,ZM8984,Orange ,Choma,Southern province,1211,keep,Zambia,Zambia,Cluster2,Cluster7,keep,keep,DSp22-7458_1,ZM8984
+ZM8999,Zambia,236,-16.55716,26.72531,ZMB048,ZM8999,Na Victoria,Choma,Southern province,1240,keep,Zambia,Zambia,Cluster5,Cluster1,keep,keep,DSp22-7458_1,ZM8999
+ZM8998,Zambia,237,-16.55716,26.72531,ZMB048,ZM8998,Mukakandongwe,Choma,Southern province,1240,keep,Zambia,Zambia,Cluster6,Cluster3,keep,keep,DSp22-7458_1,ZM8998
+ZM8993,Zambia,238,-16.53412,26.69318,ZMB048,ZM8993,Shanga ubone,Choma,Southern province,1230,keep,Zambia,Zambia,Cluster3,Cluster5,keep,keep,DSp22-7458_1,ZM8993
+ZM8979,Zambia,239,-16.54198,26.6679,ZMB048,ZM8979,Yellow,Choma,Southern province,1244,keep,Zambia,Zambia,Cluster2,Cluster7,keep,keep,DSp22-7458_1,ZM8979
+ZM8997,Zambia,241,-16.55716,26.72531,ZMB048,ZM8997,PAM,Choma,Southern province,1240,keep,Zambia,Zambia,Cluster1,Cluster4,keep,keep,DSp22-7458_1,ZM8997
+ZM8971,Zambia,242,-16.54198,26.6679,ZMB048,ZM8971,Shanga ubone,Choma,Southern province,1244,keep,Zambia,Zambia,Cluster6,Cluster6,keep,keep,DSp22-7458_1,ZM8971
+ZM8994,Zambia,243,-16.53412,26.69318,ZMB048,ZM8994,Mukakandongwe,Choma,Southern province,1230,keep,Zambia,Zambia,Cluster5,Cluster1,keep,keep,DSp22-7458_1,ZM8994
+ZM8987,Zambia,244,-16.50905,26.69154,ZMB048,ZM8987,Shanga ubone,Choma,Southern province,1211,keep,Zambia,Zambia,Cluster3,Cluster5,keep,keep,DSp22-7458_1,ZM8987
+ZM8963_2,Zambia,245,-16.51255,26.68789,ZMB048,ZM8963,Navik,Choma,Southern province,1197,keep,copy,copy1,Cluster5,Cluster1,keep,keep,DSp22-7458_1,ZM8963_2
+ZM9003,Zambia,246,-16.57605,26.76313,ZMB048,ZM9003,Mukakandongwe,Choma,Southern province,1275,keep,Zambia,Zambia,Cluster3,Cluster5,keep,keep,DSp22-7458_1,ZM9003
+ZM8986,Zambia,247,-16.50905,26.69154,ZMB048,ZM8986,NA,Choma,Southern province,1211,keep,Zambia,Zambia,Cluster5,Cluster1,keep,keep,DSp22-7458_1,ZM8986
+ZM8965_2,Zambia,248,-16.51255,26.68789,ZMB048,ZM8965,Chirundu,Choma,Southern province,1197,keep,copy,copy3,Cluster3,Cluster5,keep,keep,DSp22-7458_1,ZM8965_2
+ZM9007,Zambia,249,-16.57605,26.76313,ZMB048,ZM9007,Jaya kunona,Choma,Southern province,1275,keep,Zambia,Zambia,Cluster5,Cluster1,keep,keep,DSp22-7458_1,ZM9007
+ZM8975,Zambia,250,-16.54198,26.6679,ZMB048,ZM8975,Shanga ubone,Choma,Southern province,1244,keep,Zambia,Zambia,Cluster3,Cluster5,keep,keep,DSp22-7458_1,ZM8975
+ZM8985,Zambia,251,-16.50905,26.69154,ZMB048,ZM8985,Kalya balimi,Choma,Southern province,1211,keep,Zambia,Zambia,Cluster5,Cluster1,keep,keep,DSp22-7458_1,ZM8985
+ZM9013,Zambia,252,-16.61106,26.79966,ZMB048,ZM9013,NA,Kalomo,Southern province,1304,keep,Zambia,Zambia,Cluster5,Cluster1,keep,keep,DSp22-7458_1,ZM9013
+ZM9155,Zambia,253,-12.42228,26.21627,ZMB048,ZM9155,NA,Kalumbila,North-western province,1312,keep,Zambia,Zambia,Cluster3,Cluster5,keep,keep,DSp22-7458_1,ZM9155
+ZM8995,Zambia,254,-16.53412,26.69318,ZMB048,ZM8995,Bena Vicky,Choma,Southern province,1230,keep,Zambia,Zambia,Cluster6,Cluster6,keep,keep,DSp22-7458_1,ZM8995
+ZM9010,Zambia,255,-16.61106,26.79966,ZMB048,ZM9010,Kasempa,Kalomo,Southern province,1304,keep,Zambia,Zambia,Cluster1,Cluster4,keep,keep,DSp22-7458_1,ZM9010
+ZM8976,Zambia,256,-16.54198,26.6679,ZMB048,ZM8976,Mkushi,Choma,Southern province,1244,keep,Zambia,Zambia,Cluster3,Cluster5,keep,keep,DSp22-7458_1,ZM8976
+ZM8964_2,Zambia,257,-16.51255,26.68789,ZMB048,ZM8964,Shanga ubone,Choma,Southern province,1197,keep,copy,copy2,Cluster3,Cluster5,keep,keep,DSp22-7458_1,ZM8964_2
+ZM8978,Zambia,258,-16.54198,26.6679,ZMB048,ZM8978,Bina Vicky,Choma,Southern province,1244,keep,Zambia,Zambia,Cluster5,Cluster1,keep,keep,DSp22-7458_1,ZM8978
+ZM8990,Zambia,259,-16.50905,26.69154,ZMB048,ZM8990,Carrot,Choma,Southern province,1211,keep,Zambia,Zambia,Cluster3,Cluster5,keep,keep,DSp22-7458_1,ZM8990
